@@ -1,26 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "btnwtn",
+  "version": "1.0.0",
+  "description": "A personal card for Brandon Newton (@bitwiselover)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "btnwtn": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "url": "https://github.com/btnwtn/bitandbang.git"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Brandon Newton <brandon@bitwise.cool> (http://bitwise.cool)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
-  },
-  "devDependencies": {
-    "standard": "^12.0.1"
   }
 }
